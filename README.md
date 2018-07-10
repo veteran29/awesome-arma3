@@ -1,4 +1,6 @@
-Awesome Arma 3
+<!-- Suggested editor: VS Code with "Markdown All in One" extension -->
+
+Awesome Arma 3 <!-- omit in toc -->
 =============
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -9,7 +11,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/graphs/contributors).
 
-- [Awesome Arma 3](#awesome-arma-3)
+# Contents <!-- omit in toc -->
 - [Addons](#addons)
     - [Gameplay mechanics](#gameplay-mechanics)
     - [SFX](#sfx)
