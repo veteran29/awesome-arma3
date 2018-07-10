@@ -13,12 +13,12 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 
 # Contents <!-- omit in toc -->
 - [Addons](#addons)
-    - [Gameplay mechanics](#gameplay-mechanics)
-    - [SFX](#sfx)
-    - [AI](#ai)
-    - [Assets/Content](#assetscontent)
+	- [Gameplay mechanics](#gameplay-mechanics)
+	- [SFX](#sfx)
+	- [AI](#ai)
+	- [Assets/Content](#assetscontent)
 - [Missions](#missions)
-    - [Multiplayer](#multiplayer)
+	- [Multiplayer](#multiplayer)
 - [Tools](#tools)
 
 # Addons
