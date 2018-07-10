@@ -51,7 +51,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 ## Multiplayer
 * [co10 Escape](https://forums.bohemia.net/forums/topic/180080-co10-escape/) - Fully random "Escape the island" mission with support for most of the existing terrains.
 * [Hearts and Minds](https://github.com/Vdauphin/HeartsAndMinds) - Post war anti insurgency dynamic mission with focus on good relations with civilian population.
-* [KP Liberation](https://github.com/KillahPotatoes/KP-Liberation) - Large scale PvE dyanamic CTI campaign with advanced logistics.
+* [KP Liberation](https://github.com/KillahPotatoes/KP-Liberation) - Large scale PvE dynamic CTI campaign with advanced logistics.
 
 # Tools
 * [armake](https://github.com/KoffeinFlummi/armake) - Arma modding tools designed for CLI usage/automation.
