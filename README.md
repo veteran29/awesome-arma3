@@ -49,6 +49,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 ## Assets/Content
 * [CUP](https://steamcommunity.com/workshop/filedetails/?id=583575232) - Vehicles, weapons and terrains ported from older titles to Arma 3.
 * [Hellenic Armed Forces MOD - Submarines](https://steamcommunity.com/sharedfiles/filedetails/?id=1362114638) - Advanced submarines with advanced rockets systems.
+* [Niarms](https://github.com/toadie2k/NIArms) - Nation-Independent Arsenal.
 * [RHS](https://steamcommunity.com/workshop/filedetails/?id=843770737) - High quality modern vehicles and weapons.
 
 # Missions
