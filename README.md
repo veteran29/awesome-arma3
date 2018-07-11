@@ -53,6 +53,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 # Missions
 
 ## Multiplayer
+* [Antistasi](https://github.com/A3Antistasi/A3-Antistasi) - A persistent whole map mission, focused on resistance, infantry, and guerrilla Tactics.
 * [co10 Escape](https://forums.bohemia.net/forums/topic/180080-co10-escape/) - Fully random "Escape the island" mission with support for most of the existing terrains.
 * [Hearts and Minds](https://github.com/Vdauphin/HeartsAndMinds) - Post war anti insurgency dynamic mission with focus on good relations with civilian population.
 * [KP Liberation](https://github.com/KillahPotatoes/KP-Liberation) - Large scale PvE dynamic CTI campaign with advanced logistics.
