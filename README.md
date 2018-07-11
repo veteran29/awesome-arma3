@@ -56,3 +56,4 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 # Tools
 * [armake](https://github.com/KoffeinFlummi/armake) - Arma modding tools designed for CLI usage/automation.
 * [vscode-sqflint](https://github.com/SkaceKamen/vscode-sqflint) - SQF Language plugin for VS Code.
+* [VSCode SQF Language](https://github.com/Armitxes/VSCode_SQF) - Full SQF Language support for VS Code.
