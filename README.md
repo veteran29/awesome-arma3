@@ -26,7 +26,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 ## Gameplay mechanics
 * [ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3.
 * [Achilles](https://github.com/ArmaAchilles/Achilles) - Achilles expands zeus with many new additions.
-* [ACRE 2]https://github.com/IDI-Systems/acre2 - Advanced Combat Radio Environment 2.
+* [ACRE 2](https://github.com/IDI-Systems/acre2) - Advanced Combat Radio Environment 2.
 * [Advanced Weapon Mounting](https://steamcommunity.com/sharedfiles/filedetails/?id=1378046829) - Immersive animations for weapon attachment management (Vanilla and ACE3).
 * [ADV_Medical](https://github.com/Pergor/ADV_Medical) - Splint and improved CPR functionalities for ACE3.
 * [ALiVE](https://github.com/ALiVEOS/ALiVE.OS) - Dynamic persistent campaign framework.
