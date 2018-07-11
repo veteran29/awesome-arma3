@@ -15,6 +15,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 	- [AI](#ai)
 	- [Assets/Content](#assetscontent)
 	- [Gameplay Mechanics](#gameplay-mechanics)
+	- [Other](#other)
 	- [SFX](#sfx)
 - [Missions](#missions)
 	- [Multiplayer](#multiplayer)
@@ -46,6 +47,9 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
 - [Suppress](https://forums.bohemia.net/forums/topic/177109-suppress-by-jokoho482-and-laxemann-an-unforgiving-player-suppression-mod/) - Adds suppression effect to players.
 - [TFAR](https://github.com/michail-nikolaev/task-force-arma-3-radio) - Task Force Arrowhead Radio, a TeamSpeak integration for Arma 3.
+
+### Other
+- [3den Enchanced](https://forums.bohemia.net/forums/topic/188312-3den-enhanced/) - Various new usefull functionalities for 3den Editor.
 
 ### SFX
 - [DynaSound 2](https://steamcommunity.com/sharedfiles/filedetails/?id=825181638)
