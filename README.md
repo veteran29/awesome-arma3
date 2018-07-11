@@ -55,5 +55,5 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 
 # Tools
 * [armake](https://github.com/KoffeinFlummi/armake) - Arma modding tools designed for CLI usage/automation.
-* [intercept](https://github.com/intercept/intercept) - A C/C++ Binding Library for SQF and RV Engine Access Abstraction Layer .
+* [intercept](https://github.com/intercept/intercept) - A C/C++ Binding Library for SQF and RV Engine Access Abstraction Layer.
 * [vscode-sqflint](https://github.com/SkaceKamen/vscode-sqflint) - SQF Language plugin for VS Code.
