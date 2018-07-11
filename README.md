@@ -57,6 +57,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 * [KP Liberation](https://github.com/KillahPotatoes/KP-Liberation) - Large scale PvE dynamic CTI campaign with advanced logistics.
 
 # Tools
+* [arma-intellij-plugin](https://github.com/kayler-renslow/arma-intellij-plugin) - A plugin for Intellij IDEA that allows for syntactical analysis, code inspections, and other nifty features for the SQF scripting language in Arma 3.
 * [armake](https://github.com/KoffeinFlummi/armake) - Arma modding tools designed for CLI usage/automation.
 * [intercept](https://github.com/intercept/intercept) - A C/C++ Binding Library for SQF and RV Engine Access Abstraction Layer.
 * [vscode-sqflint](https://github.com/SkaceKamen/vscode-sqflint) - SQF Language plugin for VS Code.
