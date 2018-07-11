@@ -44,6 +44,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [ADV_Medical](https://github.com/Pergor/ADV_Medical) - Splint and improved CPR functionalities for ACE3.
 - [Advanced Rappeling](https://github.com/sethduda/AdvancedRappelling) - Adds support for helicopter rappelling.
 - [Advanced Sling Loading](https://github.com/sethduda/AdvancedSlingLoading) - Full replacement for in-game sling loading.
+- [Advanced Towing](https://github.com/sethduda/AdvancedTowing) - Adds support for towing vehicles using ropes.
 - [ALiVE](https://github.com/ALiVEOS/ALiVE.OS) - Dynamic persistent campaign framework.
 - [CBA_A3](https://github.com/CBATeam/CBA_A3) - Community Base Addons for Arma 3.
 - [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
