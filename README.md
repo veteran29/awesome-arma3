@@ -60,6 +60,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [co10 Escape](https://forums.bohemia.net/forums/topic/180080-co10-escape/) - Fully random "Escape the island" mission with support for most of the existing terrains.
 - [Dynamic Combat Ops](https://steamcommunity.com/workshop/filedetails/?id=865214690) - Dynamic randomised combined arms scenario.
 - [Dynamic Recon Ops](https://steamcommunity.com/workshop/filedetails/?id=722652837) - Dynamic randomised recon operations scenario.
+- [The Forgotten Few 2](https://forums.bohemia.net/forums/topic/189939-spco12-dynamic-campaignmission-the-forgotten-few-2/) - Highly dynamic mission with attention to detail, balance and immersion.
 - [Hearts and Minds](https://github.com/Vdauphin/HeartsAndMinds) - Post war anti insurgency dynamic mission with focus on good relations with civilian population.
 - [KP Liberation](https://github.com/KillahPotatoes/KP-Liberation) - Large scale PvE dynamic CTI campaign with advanced logistics.
 
