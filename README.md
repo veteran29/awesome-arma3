@@ -12,15 +12,28 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 
 ## Contents <!-- omit in toc -->
 - [Addons](#addons)
-	- [Gameplay Mechanics](#gameplay-mechanics)
-	- [SFX](#sfx)
 	- [AI](#ai)
 	- [Assets/Content](#assetscontent)
+	- [Gameplay Mechanics](#gameplay-mechanics)
+	- [SFX](#sfx)
 - [Missions](#missions)
 	- [Multiplayer](#multiplayer)
 - [Tools](#tools)
 
+<!-- awesome-list-start -->
+
 ## Addons
+
+### AI
+- [ASR AI 3](https://forums.bohemia.net/forums/topic/163742-asr-ai-3/) - AI enhancement mod. Adds many tweaks to AI behaviour, skills and tactics.
+- [CF_BAI](https://github.com/BrightCandle/cf_bai) - Mod that balances AI skills while fighting in woodland areas.
+- [CF_woodland](https://github.com/BrightCandle/CF_woodland) - Adds chance of being heard while moving in forest by adding branch cracking noises (both to AI and players).
+
+### Assets/Content
+- [CUP](https://steamcommunity.com/workshop/filedetails/?id=583575232) - Vehicles, weapons and terrains ported from older titles to Arma 3.
+- [Hellenic Armed Forces MOD - Submarines](https://steamcommunity.com/sharedfiles/filedetails/?id=1362114638) - Advanced submarines with advanced rockets systems.
+- [Niarms](https://github.com/toadie2k/NIArms) - Nation-Independent Arsenal.
+- [RHS](https://steamcommunity.com/workshop/filedetails/?id=843770737) - High quality modern vehicles and weapons.
 
 ### Gameplay Mechanics
 - [ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3.
@@ -39,17 +52,6 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [Enchanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) - Adds various sound enchancements like reverbs, sound reflection etc.
 - [Immerse](https://forums.bohemia.net/forums/topic/177104-immerse-by-jokoho482-and-laxemann/) - Various small gameplay tweaks for better immersion.
 - [JSRS Soundmod](https://steamcommunity.com/sharedfiles/filedetails/?id=861133494) - High quality sound overhaul.
-
-### AI
-- [ASR AI 3](https://forums.bohemia.net/forums/topic/163742-asr-ai-3/) - AI enhancement mod. Adds many tweaks to AI behaviour, skills and tactics.
-- [CF_BAI](https://github.com/BrightCandle/cf_bai) - Mod that balances AI skills while fighting in woodland areas.
-- [CF_woodland](https://github.com/BrightCandle/CF_woodland) - Adds chance of being heard while moving in forest by adding branch cracking noises (both to AI and players).
-
-### Assets/Content
-- [CUP](https://steamcommunity.com/workshop/filedetails/?id=583575232) - Vehicles, weapons and terrains ported from older titles to Arma 3.
-- [Hellenic Armed Forces MOD - Submarines](https://steamcommunity.com/sharedfiles/filedetails/?id=1362114638) - Advanced submarines with advanced rockets systems.
-- [Niarms](https://github.com/toadie2k/NIArms) - Nation-Independent Arsenal.
-- [RHS](https://steamcommunity.com/workshop/filedetails/?id=843770737) - High quality modern vehicles and weapons.
 
 ## Missions
 
