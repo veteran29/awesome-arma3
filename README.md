@@ -29,6 +29,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 * [ADV_Medical](https://github.com/Pergor/ADV_Medical) - Splint and improved CPR functionalities for ACE3.
 * [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
 * [Suppress](https://forums.bohemia.net/forums/topic/177109-suppress-by-jokoho482-and-laxemann-an-unforgiving-player-suppression-mod/) - Adds suppression effect to players.
+* [TFAR](https://github.com/michail-nikolaev/task-force-arma-3-radio) - Task Force Arrowhead Radio, a TeamSpeak integration for Arma 3.
 
 ## SFX
 * [DynaSound 2](https://steamcommunity.com/sharedfiles/filedetails/?id=825181638)
