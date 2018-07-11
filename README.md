@@ -26,10 +26,13 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 ## Gameplay mechanics
 * [ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3.
 * [Achilles](https://github.com/ArmaAchilles/Achilles) - Achilles expands zeus with many new additions.
+* [ACRE 2]https://github.com/IDI-Systems/acre2 - Advanced Combat Radio Environment 2.
 * [Advanced Weapon Mounting](https://steamcommunity.com/sharedfiles/filedetails/?id=1378046829) - Immersive animations for weapon attachment management (Vanilla and ACE3).
 * [ADV_Medical](https://github.com/Pergor/ADV_Medical) - Splint and improved CPR functionalities for ACE3.
+* [CBA_A3](https://github.com/CBATeam/CBA_A3) - Community Base Addons for Arma 3.
 * [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
 * [Suppress](https://forums.bohemia.net/forums/topic/177109-suppress-by-jokoho482-and-laxemann-an-unforgiving-player-suppression-mod/) - Adds suppression effect to players.
+* [TFAR](https://github.com/michail-nikolaev/task-force-arma-3-radio) - Task Force Arrowhead Radio, a TeamSpeak integration for Arma 3.
 
 ## SFX
 * [DynaSound 2](https://steamcommunity.com/sharedfiles/filedetails/?id=825181638)
@@ -55,5 +58,8 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 * [KP Liberation](https://github.com/KillahPotatoes/KP-Liberation) - Large scale PvE dynamic CTI campaign with advanced logistics.
 
 # Tools
+* [arma-intellij-plugin](https://github.com/kayler-renslow/arma-intellij-plugin) - A plugin for Intellij IDEA that allows for syntactical analysis, code inspections, and other nifty features for the SQF scripting language in Arma 3.
 * [armake](https://github.com/KoffeinFlummi/armake) - Arma modding tools designed for CLI usage/automation.
+* [intercept](https://github.com/intercept/intercept) - A C/C++ Binding Library for SQF and RV Engine Access Abstraction Layer.
 * [vscode-sqflint](https://github.com/SkaceKamen/vscode-sqflint) - SQF Language plugin for VS Code.
+* [VSCode SQF Language](https://github.com/Armitxes/VSCode_SQF) - Full SQF Language support for VS Code.
