@@ -27,6 +27,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 * [ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3.
 * [Advanced Weapon Mounting](https://steamcommunity.com/sharedfiles/filedetails/?id=1378046829) - Immersive animations for weapon attachment management (Vanilla and ACE3).
 * [ADV_Medical](https://github.com/Pergor/ADV_Medical) - Splint and improved CPR functionalities for ACE3.
+* [ALiVE](https://github.com/ALiVEOS/ALiVE.OS) - Dynamic persistent campaign framework.
 * [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
 * [Suppress](https://forums.bohemia.net/forums/topic/177109-suppress-by-jokoho482-and-laxemann-an-unforgiving-player-suppression-mod/) - Adds suppression effect to players.
 
