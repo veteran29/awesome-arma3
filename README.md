@@ -42,6 +42,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [ACRE 2](https://github.com/IDI-Systems/acre2) - Advanced Combat Radio Environment 2.
 - [Advanced Weapon Mounting](https://steamcommunity.com/sharedfiles/filedetails/?id=1378046829) - Immersive animations for weapon attachment management (Vanilla and ACE3).
 - [ADV_Medical](https://github.com/Pergor/ADV_Medical) - Splint and improved CPR functionalities for ACE3.
+- [Advanced Rappeling](https://github.com/sethduda/AdvancedRappelling) - Adds support for helicopter rappelling.
 - [ALiVE](https://github.com/ALiVEOS/ALiVE.OS) - Dynamic persistent campaign framework.
 - [CBA_A3](https://github.com/CBATeam/CBA_A3) - Community Base Addons for Arma 3.
 - [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
