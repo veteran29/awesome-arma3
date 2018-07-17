@@ -46,6 +46,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [Advanced Sling Loading](https://github.com/sethduda/AdvancedSlingLoading) - Full replacement for in-game sling loading.
 - [Advanced Towing](https://github.com/sethduda/AdvancedTowing) - Adds support for towing vehicles using ropes.
 - [ALiVE](https://github.com/ALiVEOS/ALiVE.OS) - Dynamic persistent campaign framework.
+- [ANZACSAS Reduced Haze Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1397683809) - Reduces haze/distant fog in most of the terrains for better visibilty
 - [C2 - Command & Control](https://forums.bohemia.net/forums/topic/177967-c2-command-and-control/) - Powerful tool that provides easy access to an arsenal of AI-commands for a player led squad.
 - [CBA_A3](https://github.com/CBATeam/CBA_A3) - Community Base Addons for Arma 3.
 - [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
