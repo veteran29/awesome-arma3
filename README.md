@@ -16,7 +16,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 	- [Assets/Content](#assetscontent)
 	- [Gameplay Mechanics](#gameplay-mechanics)
 	- [Other](#other)
-	- [SFX](#sfx)
+	- [Special Effects](#special-effects)
 - [Missions](#missions)
 	- [Multiplayer](#multiplayer)
 - [Tools](#tools)
