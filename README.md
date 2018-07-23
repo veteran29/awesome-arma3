@@ -55,7 +55,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 ### Other
 - [3den Enchanced](https://forums.bohemia.net/forums/topic/188312-3den-enhanced/) - Various new usefull functionalities for 3den Editor.
 
-### SFX
+### Special Effects
 - [ANZACSAS Reduced Haze Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1397683809) - Reduces haze/distant fog in most of the terrains for better visibilty
 - [DynaSound 2](https://steamcommunity.com/sharedfiles/filedetails/?id=825181638)
 - [Enchanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) - Adds various sound enchancements like reverbs, sound reflection etc.
