@@ -47,12 +47,12 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [Advanced Towing](https://github.com/sethduda/AdvancedTowing) - Adds support for towing vehicles using ropes.
 - [ALiVE](https://github.com/ALiVEOS/ALiVE.OS) - Dynamic persistent campaign framework.
 - [C2 - Command & Control](https://forums.bohemia.net/forums/topic/177967-c2-command-and-control/) - Powerful tool that provides easy access to an arsenal of AI-commands for a player led squad.
-- [CBA_A3](https://github.com/CBATeam/CBA_A3) - Community Base Addons for Arma 3.
 - [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
 - [Suppress](https://forums.bohemia.net/forums/topic/177109-suppress-by-jokoho482-and-laxemann-an-unforgiving-player-suppression-mod/) - Adds suppression effect to players.
 - [TFAR](https://github.com/michail-nikolaev/task-force-arma-3-radio) - Task Force Arrowhead Radio, a TeamSpeak integration for Arma 3.
 
 ### Other
+- [CBA_A3](https://github.com/CBATeam/CBA_A3) - Community Base Addons for Arma 3.
 - [3den Enchanced](https://forums.bohemia.net/forums/topic/188312-3den-enhanced/) - Various new usefull functionalities for 3den Editor.
 
 ### Special Effects
