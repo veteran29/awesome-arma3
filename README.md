@@ -47,6 +47,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [Advanced Towing](https://github.com/sethduda/AdvancedTowing) - Adds support for towing vehicles using ropes.
 - [ALiVE](https://github.com/ALiVEOS/ALiVE.OS) - Dynamic persistent campaign framework.
 - [C2 - Command & Control](https://forums.bohemia.net/forums/topic/177967-c2-command-and-control/) - Powerful tool that provides easy access to an arsenal of AI-commands for a player led squad.
+- [DUI - Squad Radar](https://steamcommunity.com/sharedfiles/filedetails/?id=1638341685/)
 - [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
 - [Suppress](https://forums.bohemia.net/forums/topic/177109-suppress-by-jokoho482-and-laxemann-an-unforgiving-player-suppression-mod/) - Adds suppression effect to players.
 - [TFAR](https://github.com/michail-nikolaev/task-force-arma-3-radio) - Task Force Arrowhead Radio, a TeamSpeak integration for Arma 3.
