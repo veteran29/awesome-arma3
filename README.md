@@ -10,7 +10,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/graphs/contributors).
 
-## Contents <!-- omit in toc -->
+## Contents
 - [Addons](#addons)
 	- [AI](#ai)
 	- [Assets/Content](#assetscontent)
@@ -57,7 +57,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [3den Enchanced](https://forums.bohemia.net/forums/topic/188312-3den-enhanced/) - Various new usefull functionalities for 3den Editor.
 
 ### Special Effects
-- [ANZACSAS Reduced Haze Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1397683809) - Reduces haze/distant fog in most of the terrains for better visibilty
+- [ANZACSAS Reduced Haze Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1397683809) - Reduces haze/distant fog in most of the terrains for better visibilty.
 - [DynaSound 2](https://steamcommunity.com/sharedfiles/filedetails/?id=825181638)
 - [Enchanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) - Adds various sound enchancements like reverbs, sound reflection etc.
 - [Immerse](https://forums.bohemia.net/forums/topic/177104-immerse-by-jokoho482-and-laxemann/) - Various small gameplay tweaks for better immersion.
@@ -80,3 +80,6 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [intercept](https://github.com/intercept/intercept) - A C/C++ Binding Library for SQF and RV Engine Access Abstraction Layer.
 - [vscode-sqflint](https://github.com/SkaceKamen/vscode-sqflint) - SQF Language plugin for VS Code.
 - [VSCode SQF Language](https://github.com/Armitxes/VSCode_SQF) - Full SQF Language support for VS Code.
+
+## License
+See [LICENSE](LICENSE) file.
