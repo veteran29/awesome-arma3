@@ -14,7 +14,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [Addons](#addons)
 	- [AI](#ai)
 	- [Assets/Content](#assetscontent)
-	- [Gameplay Mechanics](#gameplay-mechanics)
+	- [Gameplay Enhancement](#gameplay-enhancement)
 	- [Other](#other)
 	- [Special Effects](#special-effects)
 - [Missions](#missions)
@@ -36,7 +36,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [Niarms](https://github.com/toadie2k/NIArms) - Nation-Independent Arsenal.
 - [RHS](https://steamcommunity.com/workshop/filedetails/?id=843770737) - High quality modern vehicles and weapons.
 
-### Gameplay Mechanics
+### Gameplay Enhancement
 - [ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3.
 - [Achilles](https://github.com/ArmaAchilles/Achilles) - Achilles expands zeus with many new additions.
 - [ACRE 2](https://github.com/IDI-Systems/acre2) - Advanced Combat Radio Environment 2.
