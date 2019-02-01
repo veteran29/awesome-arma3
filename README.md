@@ -35,6 +35,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [Hellenic Armed Forces MOD - Submarines](https://steamcommunity.com/sharedfiles/filedetails/?id=1362114638) - Advanced submarines with advanced rockets systems.
 - [Niarms](https://github.com/toadie2k/NIArms) - Nation-Independent Arsenal.
 - [RHS](https://steamcommunity.com/workshop/filedetails/?id=843770737) - High quality modern vehicles and weapons.
+- [Theseus Services](https://steamcommunity.com/sharedfiles/filedetails/?id=646999497) - Content mod providing a number of assets for Arma 3, aimed at Private Military Company game style.
 
 ### Gameplay Enhancement
 - [ACE3](https://github.com/acemod/ACE3) - Open-source realism mod for Arma 3.
