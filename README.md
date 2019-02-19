@@ -77,7 +77,8 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 
 ## Tools
 - [arma-intellij-plugin](https://github.com/kayler-renslow/arma-intellij-plugin) - A plugin for Intellij IDEA that allows for syntactical analysis, code inspections, and other nifty features for the SQF scripting language in Arma 3.
-- [armake](https://github.com/KoffeinFlummi/armake) - Arma modding tools designed for CLI usage/automation.
+- [armake2](https://github.com/KoffeinFlummi/armake2) - Arma modding tools designed for CLI usage/automation, written in Rust.
+- [HEMTT](https://github.com/synixebrett/HEMTT) - Build System for Arma 3 powered by armake.
 - [intercept](https://github.com/intercept/intercept) - A C/C++ Binding Library for SQF and RV Engine Access Abstraction Layer.
 - [vscode-sqflint](https://github.com/SkaceKamen/vscode-sqflint) - SQF Language plugin for VS Code.
 - [VSCode SQF Language](https://github.com/Armitxes/VSCode_SQF) - Full SQF Language support for VS Code.
