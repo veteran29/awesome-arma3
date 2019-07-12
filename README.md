@@ -33,7 +33,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 ### Assets/Content
 - [CUP](https://steamcommunity.com/workshop/filedetails/?id=583575232) - Vehicles, weapons and terrains ported from older titles to Arma 3.
 - [Hellenic Armed Forces MOD - Submarines](https://steamcommunity.com/sharedfiles/filedetails/?id=1362114638) - Advanced submarines with advanced rockets systems.
-- [Niarms](https://github.com/toadie2k/NIArms) - Nation-Independent Arsenal.
+- [NIArms](https://github.com/toadie2k/NIArms) - Nation-Independent Arsenal.
 - [RHS](https://steamcommunity.com/workshop/filedetails/?id=843770737) - High quality modern vehicles and weapons.
 - [Theseus Services](https://steamcommunity.com/sharedfiles/filedetails/?id=646999497) - Content mod providing a number of assets for Arma 3, aimed at Private Military Company game style.
 
@@ -43,13 +43,13 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [ACRE 2](https://github.com/IDI-Systems/acre2) - Advanced Combat Radio Environment 2.
 - [Advanced Weapon Mounting](https://steamcommunity.com/sharedfiles/filedetails/?id=1378046829) - Immersive animations for weapon attachment management (Vanilla and ACE3).
 - [ADV_Medical](https://github.com/Pergor/ADV_Medical) - Splint and improved CPR functionalities for ACE3.
-- [Advanced Rappeling](https://github.com/sethduda/AdvancedRappelling) - Adds support for helicopter rappelling.
+- [Advanced Rappelling](https://github.com/sethduda/AdvancedRappelling) - Adds support for helicopter rappelling.
 - [Advanced Sling Loading](https://github.com/sethduda/AdvancedSlingLoading) - Full replacement for in-game sling loading.
 - [Advanced Towing](https://github.com/sethduda/AdvancedTowing) - Adds support for towing vehicles using ropes.
 - [ALiVE](https://github.com/ALiVEOS/ALiVE.OS) - Dynamic persistent campaign framework.
 - [C2 - Command & Control](https://forums.bohemia.net/forums/topic/177967-c2-command-and-control/) - Powerful tool that provides easy access to an arsenal of AI-commands for a player led squad.
 - [DUI - Squad Radar](https://steamcommunity.com/sharedfiles/filedetails/?id=1638341685/) - A HUD showing unit positions and names of units in your squad. Great performance friendly STUI alternative.
-- [Enchanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
+- [Enhanced Movement](https://forums.bohemia.net/forums/topic/174788-enhanced-movement/) - This mod allows you you jump, climb and improves interaction with bulding doors and vehicles (seat selection).
 - [Suppress](https://forums.bohemia.net/forums/topic/177109-suppress-by-jokoho482-and-laxemann-an-unforgiving-player-suppression-mod/) - Adds suppression effect to players.
 - [TFAR](https://github.com/michail-nikolaev/task-force-arma-3-radio) - Task Force Arrowhead Radio, a TeamSpeak integration for Arma 3.
 
@@ -60,7 +60,7 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 ### Special Effects
 - [ANZACSAS Reduced Haze Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1397683809) - Reduces haze/distant fog in most of the terrains for better visibilty.
 - [DynaSound 2](https://steamcommunity.com/sharedfiles/filedetails/?id=825181638)
-- [Enchanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) - Adds various sound enchancements like reverbs, sound reflection etc.
+- [Enhanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978) - Adds various sound enchancements like reverbs, sound reflection etc.
 - [Immerse](https://forums.bohemia.net/forums/topic/177104-immerse-by-jokoho482-and-laxemann/) - Various small gameplay tweaks for better immersion.
 - [JSRS Soundmod](https://steamcommunity.com/sharedfiles/filedetails/?id=861133494) - High quality sound overhaul.
 
