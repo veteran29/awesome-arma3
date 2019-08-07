@@ -80,6 +80,9 @@ Thanks to all the [contributors](https://github.com/veteran29/awesome-arma3/grap
 - [armake2](https://github.com/KoffeinFlummi/armake2) - Arma modding tools designed for CLI usage/automation, written in Rust.
 - [HEMTT](https://github.com/synixebrett/HEMTT) - Build System for Arma 3 powered by armake.
 - [intercept](https://github.com/intercept/intercept) - A C/C++ Binding Library for SQF and RV Engine Access Abstraction Layer.
+- [GitHub & Sublime SQF-Language](https://github.com/JonBons/Sublime-SQF-Language) - Sublime Text 2/3 highlighter for Bohemia Interactive's SQF Language. Also used for GitHub highlighting ([linguist](https://github.com/github/linguist)).
+- [SQF Linter](https://github.com/LordGolias/sqf) - Parser, static analyzer and interpreter of SQF (Arma programming language) .
+- [vim-sqf-syntax](https://github.com/sqwishy/vim-sqf-syntax) - Syntax highlighting file for vim or neovim for Arma's SQF script syntax.
 - [vscode-sqflint](https://github.com/SkaceKamen/vscode-sqflint) - SQF Language plugin for VS Code.
 - [VSCode SQF Language](https://github.com/Armitxes/VSCode_SQF) - Full SQF Language support for VS Code.
 
